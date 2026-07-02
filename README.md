@@ -21,17 +21,7 @@ Each investigation includes packet captures, analysis notes, and protocol breakd
 ---
 
 ## 🧠 Skills Demonstrated
-
-- Wireshark Packet Analysis  
-- TCP/IP Networking  
-- HTTP & HTTPS Analysis  
-- DNS Query Resolution  
-- TLS/SSL Handshakes  
-- ICMP Diagnostics  
-- DHCP Behavior Analysis  
-- Network Troubleshooting  
-- Packet Filtering & Inspection  
-- Cybersecurity Fundamentals  
+ Wireshark Packet Analysis, TCP/IP Networking, HTTP & HTTPS Analysis, DNS Query Resolution, TLS/SSL Handshakes, ICMP Diagnostics, DHCP Behavior Analysis,  Network Troubleshooting, Packet Filtering & Inspection, and Cybersecurity Fundamentals  
 
 ---
 
@@ -40,7 +30,7 @@ Each investigation includes packet captures, analysis notes, and protocol breakd
 | #  | Investigation              | Description                                                                 | Status       |
 |----|--------------------------|-----------------------------------------------------------------------------|--------------|
 | 01 | Cleartext HTTP Analysis  | Analyze unencrypted HTTP requests and responses                            | ✅ Complete   |
-| 02 | DNS Analysis             | Examine DNS queries, responses, and record types                           | ⏳ Coming Soon   |
+| 02 | DNS Analysis             | Examine DNS queries, responses, and record types                           | ✅ Complete   |
 | 03 | TCP Three-Way Handshake  | Study connection establishment and termination                              | ⏳ Coming Soon  |
 | 04 | TLS Handshake Analysis   | Inspect encrypted communication setup                                       | ⏳ Coming Soon   |
 | 05 | ICMP Analysis            | Analyze ping requests and network diagnostics                               | ⏳ Coming Soon  |
