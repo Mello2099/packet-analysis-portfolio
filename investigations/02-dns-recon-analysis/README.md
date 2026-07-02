@@ -48,3 +48,5 @@ Because standard DNS lacks structural payload authentication or encryption, this
 To eliminate these specific protocol weaknesses across contemporary enterprise environments, organizations must deploy:
 1. **DNS over HTTPS (DoH) or DNS over TLS (DoT):** Encapsulating standard name resolution within an encrypted tunnel prevents third-party eavesdropping and unauthorized inspection.
 2. **DNSSEC (Domain Name System Security Extensions):** Implementing cryptographic signatures for DNS records ensures authentication and cryptographic data integrity, neutralizing packet spoofing and validation hijacking vectors entirely.
+![Uploading unnamed.jpg…]()
+
