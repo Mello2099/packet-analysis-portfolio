@@ -114,11 +114,6 @@ Future additions will include:
 - Advanced intrusion pattern recognition
 
 ---
-
-## ⭐ Optional GitHub Enhancements (Recommended)
-
-You can also add these to make it even more “portfolio-ready”:
-
 ### Badges
 ```markdown
 ![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blue)
