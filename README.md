@@ -40,10 +40,10 @@ Each investigation includes packet captures, analysis notes, and protocol breakd
 | #  | Investigation              | Description                                                                 | Status       |
 |----|--------------------------|-----------------------------------------------------------------------------|--------------|
 | 01 | Cleartext HTTP Analysis  | Analyze unencrypted HTTP requests and responses                            | ✅ Complete   |
-| 02 | DNS Analysis             | Examine DNS queries, responses, and record types                           | ✅ Complete   |
-| 03 | TCP Three-Way Handshake  | Study connection establishment and termination                              | ✅ Complete   |
-| 04 | TLS Handshake Analysis   | Inspect encrypted communication setup                                       | ✅ Complete   |
-| 05 | ICMP Analysis            | Analyze ping requests and network diagnostics                               | ✅ Complete   |
+| 02 | DNS Analysis             | Examine DNS queries, responses, and record types                           | ⏳ Coming Soon   |
+| 03 | TCP Three-Way Handshake  | Study connection establishment and termination                              | ⏳ Coming Soon  |
+| 04 | TLS Handshake Analysis   | Inspect encrypted communication setup                                       | ⏳ Coming Soon   |
+| 05 | ICMP Analysis            | Analyze ping requests and network diagnostics                               | ⏳ Coming Soon  |
 | 06 | DHCP Analysis            | Study IP address allocation process                                         | ⏳ Coming Soon |
 | 07 | ARP Analysis             | Understand address resolution protocol                                      | ⏳ Coming Soon |
 | 08 | FTP Analysis             | Inspect file transfer commands and authentication                           | ⏳ Coming Soon |
