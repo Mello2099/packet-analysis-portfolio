@@ -82,7 +82,7 @@ This portfolio demonstrates practical cybersecurity and networking skills:
 
 ---
 
-## 📌 Example Focus Areas
+## 📌 Focus Areas
 
 - TCP handshake sequencing (SYN → SYN-ACK → ACK)
 - DNS resolution lifecycle
