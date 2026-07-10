@@ -9,7 +9,6 @@ A hands-on network traffic analysis project focused on capturing, inspecting, an
 ## 🚀 Overview
 
 This project explores real-world network traffic using packet captures to:
-
 - Analyze protocol communication flows
 - Identify and interpret network behavior
 - Troubleshoot connectivity issues
