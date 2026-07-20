@@ -1,4 +1,4 @@
-# 📡 Packet Analysis Portfolio
+# Packet Analysis Portfolio
 
 > **CAPTURE • ANALYZE • UNDERSTAND**
 
@@ -6,7 +6,7 @@ A hands-on network traffic analysis project focused on capturing, inspecting, an
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project explores real-world network traffic using packet captures to:
 - Analyze protocol communication flows
@@ -19,12 +19,12 @@ Each investigation includes packet captures, analysis notes, and protocol breakd
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
  Wireshark Packet Analysis, TCP/IP Networking, HTTP & HTTPS Analysis, DNS Query Resolution, TLS/SSL Handshakes, ICMP Diagnostics, DHCP Behavior Analysis,  Network Troubleshooting, Packet Filtering & Inspection, and Cybersecurity Fundamentals  
 
 ---
 
-## 🗺️ Investigations Roadmap
+## Investigations Roadmap
 
 | #  | Investigation              | Description                                                                 | Status       |
 |----|--------------------------|-----------------------------------------------------------------------------|--------------|
@@ -41,7 +41,7 @@ Each investigation includes packet captures, analysis notes, and protocol breakd
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This portfolio demonstrates practical cybersecurity and networking skills:
 
@@ -53,7 +53,7 @@ This portfolio demonstrates practical cybersecurity and networking skills:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Wireshark  
 - Packet capture files (`.pcap`, `.pcapng`)  
@@ -62,7 +62,7 @@ This portfolio demonstrates practical cybersecurity and networking skills:
 
 ---
 
-## 📂 What’s Included
+##  What’s Included
 
 - Packet capture files (PCAPs)
 - Investigation write-ups
@@ -71,7 +71,7 @@ This portfolio demonstrates practical cybersecurity and networking skills:
 
 ---
 
-## 📌 Focus Areas
+##  Focus Areas
 
 - TCP handshake sequencing (SYN → SYN-ACK → ACK)
 - DNS resolution lifecycle
@@ -81,7 +81,7 @@ This portfolio demonstrates practical cybersecurity and networking skills:
 
 ---
 
-## 📈 Learning Outcomes
+## Learning Outcomes
 
 By completing this project, I developed the ability to:
 
@@ -93,7 +93,7 @@ By completing this project, I developed the ability to:
 
 ---
 
-## 🧾 Notes
+## Notes
 
 This project is actively expanding as new protocol investigations are completed.
 
